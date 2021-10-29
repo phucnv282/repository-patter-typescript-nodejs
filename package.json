@@ -1,0 +1,19 @@
+{
+  "name": "repository-pattern",
+  "version": "1.0.0",
+  "description": "https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/mongodb": "^4.0.7",
+    "mongodb": "^4.1.3"
+  }
+}
